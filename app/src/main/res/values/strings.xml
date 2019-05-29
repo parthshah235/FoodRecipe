@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FoodRecipe</string>
+    <string name="google_server_client_id">286344956293-8f2oi2a9l36utpq8hb5su30i7j4ghp2e.apps.googleusercontent.com</string>
+    <string name="title_activity_user_pannel">FoodRecipe</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="send_to">Testing</string>
+    <string name="title_activity_chef_pannel">chefPannel</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Add Recipe</string>
+    <string name="nameerror">Enter a valid name</string>
+    <string name="emailerror">Enter a valid email</string>
+    <string name="mobileerror">Enter a valid mobile</string>
+    <string name="dateerror">Enter a valid date</string>
+</resources>

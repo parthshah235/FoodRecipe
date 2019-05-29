@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/favourite"
+            android:icon="@drawable/baseline_favorite_black_18dp"
+            android:title="Favourite" />
+
+    </group>
+
+    <item
+        android:id="@+id/cui"
+        android:icon="@drawable/baseline_local_dining_black_18dp"
+        android:title="Cuisines">
+        <menu>
+            <item
+                android:id="@+id/Guj"
+                android:title="Gujarati" />
+            <item
+                android:id="@+id/raj"
+                android:title="Rajasthani" />
+            <item
+                android:id="@+id/NorthIndian"
+                android:title="North Indian" />
+            <item
+                android:id="@+id/SouthIndian"
+                android:title="South Indian" />
+            <item
+                android:id="@+id/Chinese"
+                android:title="Chinese" />
+            <item
+                android:id="@+id/other"
+                android:title="Other" />
+        </menu>
+    </item>
+
+
+
+
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/baseline_share_black_18dp"
+                android:title="Share" />
+            <item
+                android:id="@+id/Logout"
+                android:icon="@drawable/baseline_power_settings_new_black_18dp"
+                android:title="Logout" />
+        </menu>
+    </item>
+
+</menu>
